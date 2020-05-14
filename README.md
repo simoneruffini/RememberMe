@@ -5,9 +5,9 @@
 
 ### Categories
 
-*[VHDL] (#VHDL)
+* [VHDL](#vhdl)
 
 ---
 
 ### VHDL 
-- [Vhdl reference website] (https://www.ics.uci.edu/~jmoorkan/vhdlref/)
+- [Vhdl reference website](https://www.ics.uci.edu/~jmoorkan/vhdlref/)
