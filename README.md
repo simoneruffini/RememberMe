@@ -1,11 +1,11 @@
 # RememberMe 
 > Things that I learned and want to remember
 
----
+
 
 ### Categories
 
-* [Programmin Languages](#programming languages) 
+* [Programming Languages](#programminglanguages) 
 * [VHDL](#vhdl)
 
 ---
