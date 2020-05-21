@@ -6,12 +6,16 @@
 ### Categories
 
 * [Programming Languages](#programminglanguages) 
+* [Standard ML] (#standardml)
 * [VHDL](#vhdl)
 
 ---
 
 ### Programming Languages
 - [Syntax across languages](http://rigaux.org/language-study/syntax-across-languages/)
+
+### Standard ML
+- [sML documentation](https://smlfamily.github.io/Basis/toc.html)
 
 ### VHDL 
 - [Vhdl reference website](https://www.ics.uci.edu/~jmoorkan/vhdlref/)
