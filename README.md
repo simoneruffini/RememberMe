@@ -13,7 +13,7 @@
 ---
 
 ### Linux
-- [The best way to store your dotfiles: A bare Git repository](ihttps://www.atlassian.com/git/tutorials/dotfiles)
+- [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles)
 
 ### Programming Languages
 - [Syntax across languages](http://rigaux.org/language-study/syntax-across-languages/)
