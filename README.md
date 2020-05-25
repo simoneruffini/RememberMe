@@ -5,11 +5,15 @@
 
 ### Categories
 
+* [Linux](#linux)
 * [Programming Languages](#programminglanguages) 
-* [Standard ML] (#standardml)
+* [Standard ML](#standardml)
 * [VHDL](#vhdl)
 
 ---
+
+### Linux
+- [The best way to store your dotfiles: A bare Git repository](ihttps://www.atlassian.com/git/tutorials/dotfiles)
 
 ### Programming Languages
 - [Syntax across languages](http://rigaux.org/language-study/syntax-across-languages/)
