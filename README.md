@@ -6,10 +6,10 @@
 ### Categories
 
 * [Linux](#linux)
-* [Programming Languages](#programminglanguages) 
+* [Programming Languages](#programminglanguages") 
 * [Standard ML](#standardml)
 * [VHDL](#vhdl)
-
+  * [Vivado](#vivado)
 ---
 
 ### Linux
@@ -25,4 +25,8 @@
 - [Vhdl reference website](https://www.ics.uci.edu/~jmoorkan/vhdlref/)
 - [Component vs Entity Instatiation](https://stackoverflow.com/questions/36229368/component-instantiation-vs-entity-instantiation-in-vhdl)
 - [WORK is not a VHDL Library](https://insights.sigasi.com/tech/work-not-vhdl-library/)
-- [Using git with Vivado](https://vhdlwhiz.com/jenkins-for-fpga/#vivado-gui-projects-in-batch-mode)
+
+#### Vivado
+- [Using jenkins+git with Vivado](https://vhdlwhiz.com/jenkins-for-fpga/#vivado-gui-projects-in-batch-mode)
+- [Using Vivado Design Suite with Version Control Systems](https://www.xilinx.com/support/documentation/application_notes/xapp1165.pdf)
+- [Vivado Design Suite Tcl ommand Reference Guide](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2020_1/ug835-vivado-tcl-commands.pdf)
