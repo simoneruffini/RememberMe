@@ -25,3 +25,4 @@
 - [Vhdl reference website](https://www.ics.uci.edu/~jmoorkan/vhdlref/)
 - [Component vs Entity Instatiation](https://stackoverflow.com/questions/36229368/component-instantiation-vs-entity-instantiation-in-vhdl)
 - [WORK is not a VHDL Library](https://insights.sigasi.com/tech/work-not-vhdl-library/)
+- [Using git with Vivado](https://vhdlwhiz.com/jenkins-for-fpga/#vivado-gui-projects-in-batch-mode)
