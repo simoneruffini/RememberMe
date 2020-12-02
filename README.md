@@ -5,23 +5,42 @@
 
 ### Categories
 
+* [Electronics](#electronics)
+* [Design](#design)
 * [Git](#git)
 * [Linux](#linux)
+* [Music](#music)
 * [Programming Languages](#programminglanguages) 
+  * [Javascript](#javascript)
   * [Standard ML](#standardml)
   * [VHDL](#vhdl)
 * [Vivado](#vivado)
 * [Various](#various)
 ---
+### Electronics
+- [Circuit real time simulator](https://www.falstad.com/circuit/circuitjs.html)
+
+### Design
+- [Web Based Photo Editor](https://www.photopea.com/)
+- [Online PDF swissarmy knife](https://tools.pdf24.org/en/)
+- [Free Icons & Stock Photos](https://thenounproject.com/)
 
 ### Git
 - [Detach (move) subdirectory into separate Git repository](https://stackoverflow.com/questions/359424/detach-subdirectory-into-separate-git-repository/17864475#17864475)
 
 ### Linux
 - [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles)
+- [Usefull alternative linux programs](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md)
+
+### Music
+- [Online white sound & others generator](https://mynoise.net/)
+- [Music path finder](http://boilthefrog.playlistmachinery.com/index.html)
 
 ### Programming Languages
 - [Syntax across languages](http://rigaux.org/language-study/syntax-across-languages/)
+
+#### Javascript
+- [javascript docs](https://javascript.info/)
 
 #### Standard ML
 - [sML documentation](https://smlfamily.github.io/Basis/toc.html)
@@ -38,4 +57,4 @@
 
 ### Various
 - [Display Specification and comparison Website](https://www.displayspecifications.com)
-
+- [Convert Wod docs to HTML](https://word2cleanhtml.com/)
