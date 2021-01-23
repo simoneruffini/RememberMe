@@ -59,3 +59,4 @@
 ### Various
 - [Display Specification and comparison Website](https://www.displayspecifications.com)
 - [Convert World documents to HTML](https://word2cleanhtml.com/)
+- [Upgrade SSH keys](https://blog.g3rt.nl/upgrade-your-ssh-keys.html)
