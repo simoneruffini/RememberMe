@@ -15,6 +15,7 @@
   * [Standard ML](#standardml)
   * [VHDL](#vhdl)
 * [Vivado](#vivado)
+* [vi](#vi)
 * [Various](#various)
 ---
 ### Electronics
@@ -62,3 +63,6 @@
 #### SSH stuff
 - [Upgrade SSH keys](https://blog.g3rt.nl/upgrade-your-ssh-keys.html)
 - [SSH Agent Forwarding](https://dev.to/levivm/how-to-use-ssh-and-ssh-agent-forwarding-more-secure-ssh-2c32)
+
+### Vi
+- [Your problem with Vim is that you don't grok vi](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim#1220118)
