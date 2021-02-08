@@ -11,6 +11,7 @@
 * [Linux](#linux)
 * [Music](#music)
 * [Programming Languages](#programminglanguages) 
+  * [C](#c)
   * [Javascript](#javascript)
   * [Standard ML](#standardml)
   * [VHDL](#vhdl)
@@ -41,6 +42,8 @@
 - [Syntax across languages](http://rigaux.org/language-study/syntax-across-languages/)
 - [Create Images of source code](https://carbon.now.sh/)
 
+#### C
+- [The Clockwise/Spiral Rule](http://c-faq.com/decl/spiral.anderson.html)
 #### Javascript
 - [javascript docs](https://javascript.info/)
 
