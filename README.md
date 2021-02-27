@@ -62,6 +62,7 @@
 
 ### Various
 - [Display Specification and comparison Website](https://www.displayspecifications.com)
+- [Demystifying USB-C and Thunderbolt, i.e. adapter and dock capabilities/limitations](https://www.dell.com/community/Laptops-General-Read-Only/Demystifying-USB-C-and-Thunderbolt-i-e-adapter-and-dock/m-p/5153006)
 - [Convert World documents to HTML](https://word2cleanhtml.com/)
 #### SSH stuff
 - [Upgrade SSH keys](https://blog.g3rt.nl/upgrade-your-ssh-keys.html)
