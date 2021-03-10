@@ -9,6 +9,7 @@
 * [Design](#design)
 * [Git](#git)
 * [Linux](#linux)
+  * [Wayland](#wayland)
 * [Music](#music)
 * [Programming Languages](#programminglanguages) 
   * [C](#c)
@@ -33,6 +34,8 @@
 ### Linux
 - [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles)
 - [Usefull alternative linux programs](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md)
+#### Wayland
+- [Awesome Wayland](https://github.com/natpen/awesome-wayland#clipboard-managers)
 
 ### Music
 - [Online white sound & others generator](https://mynoise.net/)
