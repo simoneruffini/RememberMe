@@ -11,12 +11,14 @@
 * [Linux](#linux)
   * [Wayland](#wayland)
 * [Music](#music)
-* [Programming Languages](#programminglanguages) 
+* [Programming Languages](#programming-languages) 
   * [C](#c)
   * [Javascript](#javascript)
   * [Standard ML](#standardml)
   * [VHDL](#vhdl)
-* [Pass](#pass)
+* [Cyber Security](#cyber-security)
+    * [Pass](#pass)
+    * [Ssh](#ssh)
 * [Vivado](#vivado)
 * [Vi](#vi)
 * [Various](#various)
@@ -59,9 +61,14 @@
 - [Component vs Entity Instatiation](https://stackoverflow.com/questions/36229368/component-instantiation-vs-entity-instantiation-in-vhdl)
 - [WORK is not a VHDL Library](https://insights.sigasi.com/tech/work-not-vhdl-library/)
 
-### Pass
+### Cyber Security
+#### Pass
 - [Sharing passwords with Git, GPG and pass](https://medium.com/@thoferon/sharing-passwords-with-git-gpg-and-pass-628c2db2a9de)
 - [Setting up pass on git with a gpg key](https://gist.github.com/flbuddymooreiv/a4f24da7e0c3552942ff)
+
+#### SSH 
+- [Upgrade SSH keys](https://blog.g3rt.nl/upgrade-your-ssh-keys.html)
+- [SSH Agent Forwarding](https://dev.to/levivm/how-to-use-ssh-and-ssh-agent-forwarding-more-secure-ssh-2c32)
 
 ### Vivado
 - [Using jenkins+git with Vivado](https://vhdlwhiz.com/jenkins-for-fpga/#vivado-gui-projects-in-batch-mode)
@@ -72,9 +79,6 @@
 - [Display Specification and comparison Website](https://www.displayspecifications.com)
 - [Demystifying USB-C and Thunderbolt, i.e. adapter and dock capabilities/limitations](https://www.dell.com/community/Laptops-General-Read-Only/Demystifying-USB-C-and-Thunderbolt-i-e-adapter-and-dock/m-p/5153006)
 - [Convert World documents to HTML](https://word2cleanhtml.com/)
-#### SSH stuff
-- [Upgrade SSH keys](https://blog.g3rt.nl/upgrade-your-ssh-keys.html)
-- [SSH Agent Forwarding](https://dev.to/levivm/how-to-use-ssh-and-ssh-agent-forwarding-more-secure-ssh-2c32)
 
 ### Vi
 - [Your problem with Vim is that you don't grok vi](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim#1220118)
