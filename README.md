@@ -16,8 +16,9 @@
   * [Javascript](#javascript)
   * [Standard ML](#standardml)
   * [VHDL](#vhdl)
+* [Pass](#pass)
 * [Vivado](#vivado)
-* [vi](#vi)
+* [Vi](#vi)
 * [Various](#various)
 ---
 ### Electronics
@@ -57,6 +58,10 @@
 - [Vhdl reference website](https://www.ics.uci.edu/~jmoorkan/vhdlref/)
 - [Component vs Entity Instatiation](https://stackoverflow.com/questions/36229368/component-instantiation-vs-entity-instantiation-in-vhdl)
 - [WORK is not a VHDL Library](https://insights.sigasi.com/tech/work-not-vhdl-library/)
+
+### Pass
+- [Sharing passwords with Git, GPG and pass](https://medium.com/@thoferon/sharing-passwords-with-git-gpg-and-pass-628c2db2a9de)
+- [Setting up pass on git with a gpg key](https://gist.github.com/flbuddymooreiv/a4f24da7e0c3552942ff)
 
 ### Vivado
 - [Using jenkins+git with Vivado](https://vhdlwhiz.com/jenkins-for-fpga/#vivado-gui-projects-in-batch-mode)
