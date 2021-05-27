@@ -9,8 +9,9 @@
 * [Design](#design)
 * [Git](#git)
 * [Linux](#linux)
-  * [Wayland](#wayland)
   * [LVM Commands](#lvm-commands)
+  * [Shell Scripting](#shell-scripting)
+  * [Wayland](#wayland)
 * [Music](#music)
 * [Programming Languages](#programming-languages) 
   * [C](#c)
@@ -40,6 +41,8 @@
 - [Usefull alternative linux programs](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md)
 #### LVM Commands
 - [Mount filesystems in LVM partions](./linux/mount_filesystems_in_lvm_partitions.md)
+#### Shell Scripting
+- [Pure sh bible](https://github.com/dylanaraps/pure-sh-bible)
 #### Wayland
 - [Awesome Wayland](https://github.com/natpen/awesome-wayland#clipboard-managers)
 
