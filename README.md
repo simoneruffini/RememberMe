@@ -66,6 +66,7 @@
 - [Vhdl reference website](https://www.ics.uci.edu/~jmoorkan/vhdlref/)
 - [Component vs Entity Instatiation](https://stackoverflow.com/questions/36229368/component-instantiation-vs-entity-instantiation-in-vhdl)
 - [WORK is not a VHDL Library](https://insights.sigasi.com/tech/work-not-vhdl-library/)
+- [VHDL AGGREGATES](./programming_languages/vhdl/vhdl_aggregates.md)
 
 ### Cyber Security
 #### Pass
