@@ -16,8 +16,9 @@
 * [Programming Languages](#programming-languages) 
   * [C](#c)
   * [Javascript](#javascript)
-  * [Standard ML](#standardml)
-  * [VHDL](#vhdl)
+  * [Standard ML](#standard-ml)
+  * [Tcl](#tcl)
+  * [VHDL](#vhdl) 
 * [Cyber Security](#cyber-security)
     * [Pass](#pass)
     * [Ssh](#ssh)
@@ -51,6 +52,7 @@
 - [Music path finder](http://boilthefrog.playlistmachinery.com/index.html)
 
 ### Programming Languages
+
 - [Syntax across languages](http://rigaux.org/language-study/syntax-across-languages/)
 - [Create Images of source code](https://carbon.now.sh/)
 
@@ -58,10 +60,10 @@
 - [The Clockwise/Spiral Rule](http://c-faq.com/decl/spiral.anderson.html)
 #### Javascript
 - [javascript docs](https://javascript.info/)
-
 #### Standard ML
 - [sML documentation](https://smlfamily.github.io/Basis/toc.html)
-
+#### Tcl
+- [Tcl Wiki](https://wiki.tcl-lang.org/welcome)
 #### VHDL 
 - [Vhdl reference website](https://www.ics.uci.edu/~jmoorkan/vhdlref/)
 - [Component vs Entity Instatiation](https://stackoverflow.com/questions/36229368/component-instantiation-vs-entity-instantiation-in-vhdl)
