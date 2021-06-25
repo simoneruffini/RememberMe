@@ -36,6 +36,7 @@
 
 ### Git
 - [Detach (move) subdirectory into separate Git repository](https://stackoverflow.com/questions/359424/detach-subdirectory-into-separate-git-repository/17864475#17864475)
+- [Remove a submodule](https://stackoverflow.com/questions/1260748/how-do-i-remove-a-submodule)
 
 ### Linux
 - [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles)
