@@ -70,6 +70,7 @@
 - [Component vs Entity Instatiation](https://stackoverflow.com/questions/36229368/component-instantiation-vs-entity-instantiation-in-vhdl)
 - [WORK is not a VHDL Library](https://insights.sigasi.com/tech/work-not-vhdl-library/)
 - [VHDL AGGREGATES](./programming_languages/vhdl/vhdl_aggregates.md)
+- [Understanding VHDL Attributes](http://pldworld.info/_hdl/2/_ref/acc-eda/language_overview/objects__data_types_and_operators/understanding_vhdl_attributes.htm)
 
 ### Cyber Security
 #### Pass
