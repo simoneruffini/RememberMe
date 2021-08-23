@@ -41,6 +41,7 @@
 ### Linux
 - [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles)
 - [Usefull alternative linux programs](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md)
+- [gzip redirection or piping](https://unix.stackexchange.com/questions/34003/gzip-redirection-or-piping)
 #### LVM Commands
 - [Mount filesystems in LVM partions](./linux/mount_filesystems_in_lvm_partitions.md)
 #### Shell Scripting
