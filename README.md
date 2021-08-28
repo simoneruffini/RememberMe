@@ -23,7 +23,7 @@
     * [Pass](#pass)
     * [Ssh](#ssh)
 * [Vivado](#vivado)
-* [Vi](#vi)
+* [Vim](#vim)
 * [Various](#various)
 ---
 ### Electronics
@@ -92,5 +92,6 @@
 - [Demystifying USB-C and Thunderbolt, i.e. adapter and dock capabilities/limitations](https://www.dell.com/community/Laptops-General-Read-Only/Demystifying-USB-C-and-Thunderbolt-i-e-adapter-and-dock/m-p/5153006)
 - [Convert World documents to HTML](https://word2cleanhtml.com/)
 
-### Vi
+### Vim
 - [Your problem with Vim is that you don't grok vi](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim#1220118)
+- [Search patterns](./vim/search_patterns.md)
