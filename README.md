@@ -46,7 +46,7 @@
 - [gzip redirection or piping](https://unix.stackexchange.com/questions/34003/gzip-redirection-or-piping)
 #### General Knowledge
 - [general knowledge](./linux/general_knowledge.md)
-- [syslogd](.linux/syslogd.md)
+- [syslogd](./linux/syslogd.md)
 #### LVM Commands
 - [Mount filesystems in LVM partions](./linux/mount_filesystems_in_lvm_partitions.md)
 #### Shell Scripting
