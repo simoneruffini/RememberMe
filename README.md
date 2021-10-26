@@ -37,6 +37,7 @@
 ### Git
 - [Detach (move) subdirectory into separate Git repository](https://stackoverflow.com/questions/359424/detach-subdirectory-into-separate-git-repository/17864475#17864475)
 - [Remove a submodule](https://stackoverflow.com/questions/1260748/how-do-i-remove-a-submodule)
+- [WSL git status shows all fiels modified](https://github.com/microsoft/WSL/issues/184#issuecomment-287853688)
 
 ### Linux
 - [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles)
@@ -91,6 +92,7 @@
 - [Display Specification and comparison Website](https://www.displayspecifications.com)
 - [Demystifying USB-C and Thunderbolt, i.e. adapter and dock capabilities/limitations](https://www.dell.com/community/Laptops-General-Read-Only/Demystifying-USB-C-and-Thunderbolt-i-e-adapter-and-dock/m-p/5153006)
 - [Convert World documents to HTML](https://word2cleanhtml.com/)
+- [WSL git status shows all fiels modified](https://github.com/microsoft/WSL/issues/184#issuecomment-287853688)
 
 ### Vim
 - [Your problem with Vim is that you don't grok vi](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim#1220118)
