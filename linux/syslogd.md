@@ -1,6 +1,5 @@
 ## Syslogd
-This file is a rework of [geekuniversity](https://geek-university.com/linux/syslogd/)
----
+
 `syslogd` is the most common logger for Linux and Unix. The syslogd daemon handles messages from servers and programs.
 
 syslogd provides a unified means of handling log files. It accepts log messsages delivered from servers and programs and directs them to the appropriate log files. This enables the consolidation of messages from various sources in standard log files, which makes them easier to manage.
@@ -29,3 +28,8 @@ This line sends all **emerg**-level messages to the consoles of all users who ar
 
 **On most modern Linux distributions syslogd has been replaced with some newer syslog implementations, such as rsyslog or syslog-ng.**
 
+---
+
+Credit: This file is a rework of [geekuniversity](https://geek-university.com/linux/syslogd/)
+
+---
