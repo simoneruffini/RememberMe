@@ -11,13 +11,13 @@
 * [Linux](#linux)
   * [General Knowledge](#general-knowledge)
   * [LVM Commands](#lvm-commands)
-  * [Shell Scripting](#shell-scripting)
   * [Wayland](#wayland)
 * [Music](#music)
 * [Programming Languages](#programming-languages) 
   * [C](#c)
   * [Javascript](#javascript)
   * [Standard ML](#standard-ml)
+  * [sh](#sh)
   * [Tcl](#tcl)
   * [VHDL](#vhdl) 
 * [Cyber Security](#cyber-security)
@@ -49,8 +49,6 @@
 - [syslogd](./linux/syslogd.md)
 #### LVM Commands
 - [Mount filesystems in LVM partions](./linux/mount_filesystems_in_lvm_partitions.md)
-#### Shell Scripting
-- [Pure sh bible](https://github.com/dylanaraps/pure-sh-bible)
 #### Wayland
 - [Awesome Wayland](https://github.com/natpen/awesome-wayland#clipboard-managers)
 
@@ -71,6 +69,9 @@
 - [sML documentation](https://smlfamily.github.io/Basis/toc.html)
 #### Tcl
 - [Tcl Wiki](https://wiki.tcl-lang.org/welcome)
+#### Sh
+- [Pure sh bible](https://github.com/dylanaraps/pure-sh-bible)
+- [shell literacy](programming_languages/sh/posix_shell_literacy.md)
 #### VHDL 
 - [Vhdl reference website](https://www.ics.uci.edu/~jmoorkan/vhdlref/)
 - [Component vs Entity Instatiation](https://stackoverflow.com/questions/36229368/component-instantiation-vs-entity-instantiation-in-vhdl)
