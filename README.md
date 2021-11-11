@@ -11,6 +11,7 @@
 * [Linux](#linux)
   * [General Knowledge](#general-knowledge)
   * [LVM Commands](#lvm-commands)
+  * [Ubuntu](#ubuntu)
   * [Wayland](#wayland)
 * [Music](#music)
 * [Programming Languages](#programming-languages) 
@@ -50,6 +51,8 @@
 - [syslogd](./linux/syslogd.md)
 #### LVM Commands
 - [Mount filesystems in LVM partions](./linux/mount_filesystems_in_lvm_partitions.md)
+#### Ubuntu
+- [How to install software or upgrade from an old unsupported release?](https://askubuntu.com/questions/91815/how-to-install-software-or-upgrade-from-an-old-unsupported-release)
 #### Wayland
 - [Awesome Wayland](https://github.com/natpen/awesome-wayland#clipboard-managers)
 
